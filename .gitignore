@@ -1,0 +1,29 @@
+# Cocotb simulation artifacts
+sim_build/
+*.vvp
+*.vcd
+*.fst
+*.ghw
+results.xml
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Log files
+*.log
