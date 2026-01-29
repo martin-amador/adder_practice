@@ -1,5 +1,6 @@
 [project]
 name = "adder_practice"
+version = "0.1.0"
 dependencies = [
     "cocotb>=1.8.0",
     "pytest>=7.0.0",
